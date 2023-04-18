@@ -1,0 +1,1 @@
+<view class="{{['tn-icon','data-v-3d5e7954',iconClass]}}" style="{{(iconStyle)}}"><block wx:if="{{isImg}}"><view class="tn-icon__image data-v-3d5e7954"><image class="image data-v-3d5e7954" src="{{icon}}" mode="{{imgMode}}"></image></view></block><block wx:else><text class="{{['tn-icon__icon','data-v-3d5e7954','tn-icon-'+icon]}}"></text></block></view>

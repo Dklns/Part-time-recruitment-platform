@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "主页",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "uni-search-bar": "/uni_modules/uni-search-bar/components/uni-search-bar/uni-search-bar",
+    "uni-data-select": "/uni_modules/uni-data-select/components/uni-data-select/uni-data-select",
+    "tn-icon": "/uni_modules/tuniaoui-icon/components/tuniaoui-icon/tuniaoui-icon",
+    "rough-task-presentation": "/components/RoughTaskPresentation/RoughTaskPresentation"
+  }
+}

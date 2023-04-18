@@ -1,0 +1,26 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*每个页面公共css */
+._ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+page {
+	color: #2b352a;
+	font-size: 1.5rem;
+}
+

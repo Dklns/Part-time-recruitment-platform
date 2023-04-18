@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "个人",
+  "usingComponents": {
+    "tn-icon": "/uni_modules/tuniaoui-icon/components/tuniaoui-icon/tuniaoui-icon"
+  }
+}
